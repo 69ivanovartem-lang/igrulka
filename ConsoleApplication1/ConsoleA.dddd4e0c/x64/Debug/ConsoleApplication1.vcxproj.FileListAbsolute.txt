@@ -1,0 +1,3 @@
+D:\Иванов Артём\igra\ConsoleApplication1\x64\Debug\raylib.dll
+D:\Иванов Артём\igra\ConsoleApplication1\x64\Debug\glfw3.dll
+D:\Иванов Артём\igra\ConsoleApplication1\ConsoleA.dddd4e0c\x64\Debug\ConsoleA.6FF751E1.Up2Date
